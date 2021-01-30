@@ -12,6 +12,7 @@ body{
     background-position: center center;
     background-attachment: scroll;
     background-size: cover;
+    background-attachment: fixed;
 }
 nav{
     height: 50px;
