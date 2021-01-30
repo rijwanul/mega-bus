@@ -56,7 +56,7 @@ nav ul li a:hover, a.active{
     font-family: 'Bebas Neue', cursive;
     font-weight: 500;
 }
-.booking-form{
+.booking-form, #confirmation{
     background-color: #fff;
     border: 1px solid #ddd;
     padding: 10px;
@@ -121,4 +121,7 @@ nav ul li a:hover, a.active{
 .amount{
     display: flex;
     justify-content: space-between;
+}
+#confirmation {
+    display: none;
 }
